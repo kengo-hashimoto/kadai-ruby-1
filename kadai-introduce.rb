@@ -1,4 +1,4 @@
-ln= '橋本'
-fn= '玄吾'
-age = '23'
-puts ln + fn + 'です。' + age  + '歳です。'
+str1 = '橋本'
+str2 = '玄吾'
+num = '23'
+puts str1 + str2 + 'です。' + num.to_s  + '歳です。'
